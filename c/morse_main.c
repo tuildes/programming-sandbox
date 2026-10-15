@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "include/morse.h"
+#include "morse.h"
 
 int main(int argc, char *argv[]) {
     if (argc < 3) {

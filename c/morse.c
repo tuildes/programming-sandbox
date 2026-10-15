@@ -1,4 +1,4 @@
-#include "include/morse.h"
+#include "morse.h"
 
 void print_help (const char *programName) {
     printf(
